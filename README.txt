@@ -1,10 +1,11 @@
  Explicando o projeto e a lógica que vamos aplicar:
 * PRIMEIRA ETAPA
-             Primeiro precisaremos que o usuário digite o primeiro valor,
-             Precisaremos validar os números e exibir uma mensagem caso o número não seja válido,
-             Depois precisamos pedir para o usuário digitar um operador matemático ( / | + | * | - | %(MOD) ),
-             Agora pedimos para o usuário digitar o segundo valor,
-             E aí efetuar uma operação matemática com base nos valores e operador informado pelo usuário, retornar este cálculo para o usuário.
+Primeiro precisaremos que o usuário digite o primeiro valor,
+ Precisaremos validar os números e exibir uma mensagem caso o número não seja válido,
+ Depois precisamos pedir para o usuário digitar um operador matemático ( / | + | * | - | %(MOD) ),
+ Agora pedimos para o usuário digitar o segundo valor,
+ E aí efetuar uma operação matemática com base nos valores e operador informado pelo usuário, retornar este
+cálculo para o usuário.
 
 
 *SEGUNDA ETAPA
